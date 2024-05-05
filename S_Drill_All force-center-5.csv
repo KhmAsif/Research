@@ -1,4 +1,4 @@
-Run,Bolck ,Feed,Ultrsound,Rpm,Surface Rougness,Cutting Force_avg,Cutting Force_avg_wcorr,Cutting Force_avg_small_corr,Cutting Force_max_full_corr,Cutting Force_max_W_corr,Cutting Force_max_small_corr,Torque_corr
+Run,Bolck ,Feed,Ultrasound,Rpm,Surface Rougness,Cutting Force_avg,Cutting Force_avg_wcorr,Cutting Force_avg_small_corr,Cutting Force_max_full_corr,Cutting Force_max_W_corr,Cutting Force_max_small_corr,Torque_corr
 3,1,-1,-1,-1,2.735,25.99,65.69,59.94,44.26,86.85,78.21,1.8
 5,1,1,-1,-1,2.495,40.88,70.3,68.79,53.58,83.19,81.57,1.37
 2,1,-1,1,-1,2.99,32.23,68.79,64.38,43.16,83.8,75.32,1.13
